@@ -29,6 +29,7 @@ function Navbar() {
         <EmailOutlinedIcon />
         <NotificationsOutlinedIcon />
         <div className="user">
+        <img src={loginbd} alt=""/>
         <span>Hazem Mo</span>
         </div>
       </div>
